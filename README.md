@@ -22,9 +22,9 @@ Testing the commands for the desired output.
 
 # COMMANDS:
 
-## Developed By: JANARTHANAN K
-## Register No.: 212223040072
-## Date : 16/08/2024
+### Developed By: JANARTHANAN K
+### Register No.: 212223040072
+### Date        : 16/08/2024
 
 ### Create the following files file1, file2 as follows:
 cat > file1
